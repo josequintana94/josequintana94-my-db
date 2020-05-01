@@ -1,0 +1,68 @@
+{
+"comercios": [
+{
+"comercioUbicacion": {
+"direccion": null,
+"latitud": null,
+"longitud": null
+},
+"comercioHorario": {
+"domingo": [],
+"lunes": [],
+"martes": [],
+"miercoles": [],
+"jueves": [],
+"viernes": [],
+"sabado": []
+},
+"comercioEnabled": true,
+"comercioCiudad": "Corrientes",
+"_id": "5e9cf2331f08bd753d8a0300",
+"comercioProductos": [
+{
+"productoBaja": false,
+"_id": "5e9cf38a6e59d3625acb9dfd",
+"titulo": "Hamburguesa Especial",
+"descripcion": "Hamburguesa especial con todo incluido",
+"precio": 300,
+"rubro": "Hamburguesas",
+"foto": null
+}
+],
+"comercioPromocion": [],
+"comercioNombre": "El Chino",
+"comercioCategoria": "Hamburgueseria",
+"comercioEmail": "elchino@gmail.com",
+"comercioPassword": "elchino",
+"comercioTelefono": "3794852147",
+"__v": 1
+},
+{
+"comercioUbicacion": {
+"direccion": null,
+"latitud": null,
+"longitud": null
+},
+"comercioHorario": {
+"domingo": [],
+"lunes": [],
+"martes": [],
+"miercoles": [],
+"jueves": [],
+"viernes": [],
+"sabado": []
+},
+"comercioEnabled": true,
+"comercioCiudad": "Corrientes",
+"_id": "5e9cf5d57e85c162dde0c97d",
+"comercioProductos": [],
+"comercioPromocion": [],
+"comercioNombre": "facu",
+"comercioCategoria": "comida",
+"comercioEmail": "facunquintana@gmail.com",
+"comercioPassword": "123321a",
+"comercioTelefono": "3794013434",
+"__v": 0
+}
+]
+}
